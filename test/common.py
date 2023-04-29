@@ -1,5 +1,4 @@
 import pytest  # noqa
-from pytest import skip, raises  # noqa
 
 
 def assert_equal(expected, result):

@@ -2,7 +2,7 @@
 
 import tabulate as tabulate_module
 from common import assert_equal, raises, skip
-from tabulate import tabulate, simple_separated_format, SEPARATING_LINE
+from tabulate import tabulate, c, SEPARATING_LINE
 
 # _test_table shows
 #  - coercion of a string to a number,
